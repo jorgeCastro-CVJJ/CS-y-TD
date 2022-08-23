@@ -1,0 +1,15 @@
+{
+  "name": "lab11express",
+  "version": "1.0.0",
+  "description": "Laboratorio 11 de Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tc2005b",
+    "ad22"
+  ],
+  "author": "Jorge Castro",
+  "license": "MIT"
+}
