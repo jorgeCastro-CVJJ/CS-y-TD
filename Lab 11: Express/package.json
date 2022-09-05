@@ -11,5 +11,11 @@
     "ad22"
   ],
   "author": "Jorge Castro",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
