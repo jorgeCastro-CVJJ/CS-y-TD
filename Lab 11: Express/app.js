@@ -40,7 +40,7 @@ app.use('/',(req, res, next) => {
     res.write('<br>')
     
     res.write('Hola mundo!'); // Manda la respuesta
-    muchaForma = fs.readFileSync('./DatosDeLaForma.txt')
+    muchaForma = fs.readFileSync('./DatosDeLaForma.txt',)
     res.write('<br>')
     res.end(muchaForma)
 });
