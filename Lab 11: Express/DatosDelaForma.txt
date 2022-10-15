@@ -1,0 +1,4 @@
+{
+  "nombre": "Jorge Castro V�zquez",
+  "correo": "jcastro@tec.mx"
+}
