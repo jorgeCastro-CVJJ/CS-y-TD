@@ -6,6 +6,7 @@ getCreativo = (req,res) => {
 };
 
 getDatos = (request,res) => {
+    request.session.variable = 15
     console.log(request.session)
     data = Modelo.read()
     let info = JSON.parse(data);
