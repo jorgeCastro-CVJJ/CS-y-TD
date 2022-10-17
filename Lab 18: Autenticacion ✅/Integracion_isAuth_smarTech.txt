@@ -1,0 +1,4 @@
+Implementación de Autenticacion dentro del proyecto con protección de rutas:
+Auth file => https://github.com/DenisseDB/SmarTech2/blob/Autorizacion/util/isAuth.js
+
+isAuth implementation => https://github.com/DenisseDB/SmarTech2/blob/Autorizacion/routes/user.routes.js
